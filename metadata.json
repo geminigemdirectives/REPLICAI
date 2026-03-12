@@ -1,0 +1,5 @@
+{
+  "name": "REPLICAI v1.1 (BETA)",
+  "description": "A deterministic cinematic image generation engine optimized for Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
